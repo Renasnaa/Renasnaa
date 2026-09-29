@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Rena Siti Nur Aliyah Hamzah
+I’m Rena Siti Nur Aliyah Hamzah,<br> 
+a Master’s student in Applied Statistics with a strong passion for data analytics and statistical analysis.<br> I have hands-on experience using R, Python, SPSS, Minitab, Power BI, Tableau, and Excel to analyze data, develop interactive dashboards, and generate actionable insights. I’m passionate about transforming data into meaningful insights that support data-driven decision-making and business improvement.
+
